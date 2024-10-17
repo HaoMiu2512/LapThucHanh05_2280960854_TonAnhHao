@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.GUI", "Lab05.GUI\Lab05.GUI.csproj", "{EBCD6A45-FAB3-49EF-A0BD-ABE7050571E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.BUS", "Lab05.BUS\Lab05.BUS.csproj", "{FF490AB0-3773-463C-A894-758E92386DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05.DAL", "Lab05.DAL\Lab05.DAL.csproj", "{E06AEB55-5EA5-45F5-92D3-6BD9E1F8C56E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCD6A45-FAB3-49EF-A0BD-ABE7050571E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCD6A45-FAB3-49EF-A0BD-ABE7050571E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCD6A45-FAB3-49EF-A0BD-ABE7050571E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCD6A45-FAB3-49EF-A0BD-ABE7050571E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF490AB0-3773-463C-A894-758E92386DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF490AB0-3773-463C-A894-758E92386DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF490AB0-3773-463C-A894-758E92386DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF490AB0-3773-463C-A894-758E92386DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06AEB55-5EA5-45F5-92D3-6BD9E1F8C56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06AEB55-5EA5-45F5-92D3-6BD9E1F8C56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06AEB55-5EA5-45F5-92D3-6BD9E1F8C56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06AEB55-5EA5-45F5-92D3-6BD9E1F8C56E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1086B66A-E270-4653-9348-CABF88C74860}
+	EndGlobalSection
+EndGlobal
